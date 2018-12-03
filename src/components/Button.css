@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Space+Mono');
+
+button {
+    padding: 15px 10%;
+    background-color: #ff9966;
+    color: white;
+    border-radius: 5px;
+    font-size: 4rem;
+    font-family: 'Inconsolata', monospace;
+    border: none;
+    box-shadow: 2px 3px 1px #eb8755
+}
+
+button:active {
+    border: none;
+    box-shadow: -3px -2px 1px #eb8755;
+    background-color: #f58f5c;
+}
