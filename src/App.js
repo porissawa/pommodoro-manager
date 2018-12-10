@@ -145,7 +145,8 @@ class PomoCardForm extends React.Component {
             color: 'white',
             padding: '0.6rem',
             border: 'none',
-          }}>
+          }}
+          >
           {saveCard}
           </button>
           <button className='Cancel' style={{
